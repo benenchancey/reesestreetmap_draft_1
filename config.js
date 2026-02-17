@@ -307,8 +307,18 @@ var config = {
             mapAnimation: 'flyTo',
             rotateAnimation: false,
             callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
+            onChapterEnter: [
+                {
+                    layer: 'clarkatlu',
+                    opacity: 1
+                }
+            ],
+            onChapterExit: [
+                {
+                    layer: 'clarkatlu',
+                    opacity: 0
+                }
+            ]
         },
         {
             id: 'ninth-chapter',
@@ -360,18 +370,28 @@ var config = {
             hidden: false,
             title: 'Judia Jackson Harris, 1870-1960',
             image: 'https://github.com/benenchancey/reesestreetmap_draft_1/blob/main/judia.jpg?raw=true',
-            description: 'Judia, the youngest of the three sisters, was born in 1870.',
+            description: 'Judia, the youngest of the three sisters, was born in 1870. She went on to attend several educational institutions in her pursuit to become an educator like her sisters.',
             location: {
-                center: [-83.38300, 33.95737],
-                zoom: 19,
+                center: [-82.65207, 37.62059],
+                zoom: 4.91,
                 pitch: 0,
                 bearing: 0
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
             callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
+            onChapterEnter: [
+                {
+                    layer: 'jjeducation',
+                    opacity: 1
+                }
+            ],
+            onChapterExit: [
+                {
+                    layer: 'jjeducation',
+                    opacity: 0
+                }
+            ]
         },
         {
             id: 'eleventh-chapter',
@@ -379,7 +399,7 @@ var config = {
             hidden: false,
             title: 'J.J. Harris\'s Model Schools',
             image: 'https://github.com/benenchancey/reesestreetmap_draft_1/blob/main/judia.jpg?raw=true',
-            description: 'Judia, the youngest of the three sisters, was born in 1870.',
+            description: 'Text about model schools here',
             location: {
                 center: [-83.34037, 34.01912],
                 zoom: 16.73,
