@@ -25,7 +25,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: 'A Trip Through Historic Reese Street, 1851-1956',
-            image: 'https://github.com/benenchancey/reesestreetmap_draft_1/blob/main/modelschool.png',
+            image: 'https://github.com/benenchancey/reesestreetmap_draft_1/blob/main/modelschool.png?raw=true',
             description: 'The Reese Street neighborhood thrived in the mid-1920s as a cultural hub for Black Athenians, serving as a center of education, business, faith, and community despite ongoing segregation and limited opportunity. Nestled just west of downtown Athens, the historic neighborhood was home to prominent educators, businesspeople, and civic leaders who helped shape the city\'s Black identity and legacy. Home to iconic institutions like Hill First Baptist Church and Athens High & Industrial School, the neighborhood cultivated a strong sense of community, resilience, and achievement. This map will explore the history of Reese Street\'s educational institutions through the lives of three generations of the Jackson-Brydie clan, a family of Black educators with deep roots in the neighborhood.',
             location: {
                 center: [-83.38697, 33.95821],
