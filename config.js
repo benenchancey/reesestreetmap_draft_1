@@ -25,7 +25,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: 'A Trip Through Historic Reese Street, 1851-1956',
-            image: 'https://github.com/benenchancey/reesestreetmap_draft_1/blob/main/modelschool.png?raw=true',
+            image: 'https://github.com/benenchancey/reesestreetmap_draft_1/blob/main/knox.jpg?raw=true',
             description: 'The Reese Street neighborhood thrived in the mid-1920s as a cultural hub for Black Athenians, serving as a center of education, business, faith, and community despite ongoing segregation and limited opportunity. Nestled just west of downtown Athens, the historic neighborhood was home to prominent educators, businesspeople, and civic leaders who helped shape the city\'s Black identity and legacy. Home to iconic institutions like Hill First Baptist Church and Athens High & Industrial School, the neighborhood cultivated a strong sense of community, resilience, and achievement. This map will explore the history of Reese Street\'s educational institutions through the lives of three generations of the Jackson-Brydie clan, a family of Black educators with deep roots in the neighborhood.',
             location: {
                 center: [-83.38697, 33.95821],
@@ -112,7 +112,7 @@ var config = {
             alignment: 'fully',
             hidden: false,
             title: 'The Jackson-Brydie Family',
-            image: '/sisters.jpg',
+            image: 'https://github.com/benenchancey/reesestreetmap_draft_1/blob/main/sisters.jpg?raw=true',
             description: 'The Jackson-Brydies were a family of educators who lived and worked in Reese Street over the course of about 70 years, from 1886 to around 1956. Not only did they work in Reese Street\'s educational institutions and other schools for Black students around Athens, they also owned several properties within the neighborhood. This story begins with the remarkable lives of three sisters who all became educators and landowners in Athens: Camilla, Mary, and Judia.',
             location: {
                 center: [-83.38339, 33.95787],
@@ -146,7 +146,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'The Homes on North Finley Street',
-            image: '/223north.jpg',
+            image: 'https://github.com/benenchancey/reesestreetmap_draft_1/blob/main/223north.jpg?raw=true',
             description: 'These were the properties owned between the sisters in the neighborhood: 223 North Finley (pictured), 249 North Finley, and 193 North Finley. The sisters owned a fourth home at 101 North Finley, which was likely destroyed when Broad Street was widened in 1938.',
             location: {
                 center: [-83.38327, 33.95695],
@@ -198,7 +198,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Camilla Jackson Brydie, 1851-1925',
-            image: '/camilla.jpg',
+            image: 'https://github.com/benenchancey/reesestreetmap_draft_1/blob/main/camilla.jpg?raw=true',
             description: 'Camilla, the eldest of the three Jackson-Brydie sisters, was born in 1851 in the nearby neighborhood of Lickskillet. She was born into slavery, yet still learned to read and write. At the age of 17, she became a teacher at the Knox Institute in Reese Street. She walked between her home in Lickskillet and Reese Street every day, and eventually came to live in the homes that she owned with her sisters on North Finley. On her commute between her then home in Lickskillet and the Knox Institute, she likely would have passed Hot Corner, Athens\'s Black business district, highlighting the interconnectedness of Black communities in Athens. She took on an important role in Reconstruction-era Athens, serving as an educator at a hopeful time for Athens\'s Black residents.',
             location: {
                 center: [-83.38359, 33.95850],
@@ -241,7 +241,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'The Knox Institute',
-            image: '/knox2.jpg',
+            image: 'https://github.com/benenchancey/reesestreetmap_draft_1/blob/main/knox2.jpg?raw=true',
             description: 'The Knox Institute and Industrial School was founded in 1868 by the Freedmen\'s Bureau at the corner of Reese and Pope streets. Later on, the Knox Institute building would become managed by Athens High and Industrial School (formerly the Reese Street School), which was the first 4-year accredited high school for Black students in the state of Georgia.',
             location: {
                 center: [-83.38446, 33.95681],
@@ -277,7 +277,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Mary Jackson McCrorey, 1867-1944',
-            image: '/mary.jpg',
+            image: 'https://github.com/benenchancey/reesestreetmap_draft_1/blob/main/mary.jpg?raw=true',
             description: 'Born in 1867, Mary was the first of the three sisters to be born free. She started teaching in rural schoolhouses around Athens in 1880, at the age of 13 or 14. She would later become the first Black public school principal in Athens.',
             location: {
                 center: [-83.37834, 33.96041],
@@ -315,7 +315,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Mary\'s Reese Street Real Estate Purchases',
-            image: '/223north.jpg',
+            image: 'https://github.com/benenchancey/reesestreetmap_draft_1/blob/main/223north.jpg?raw=true',
             description: 'Mary also bought the first few of the homes on North Finley, including those at 223 and 101 North Finley. Camilla and her husband Eugene also moved into this house, tying the family even more closely to Reese Street.',
             location: {
             center: [-83.38340, 33.95716],
@@ -359,7 +359,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Judia Jackson Harris, 1870-1960',
-            image: '/judia.jpg',
+            image: 'https://github.com/benenchancey/reesestreetmap_draft_1/blob/main/judia.jpg?raw=true',
             description: 'Judia, the youngest of the three sisters, was born in 1870.',
             location: {
                 center: [-83.38300, 33.95737],
@@ -378,7 +378,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'J.J. Harris\'s Model Schools',
-            image: '/modelschool.png',
+            image: 'https://github.com/benenchancey/reesestreetmap_draft_1/blob/main/judia.jpg?raw=true',
             description: 'Judia, the youngest of the three sisters, was born in 1870.',
             location: {
                 center: [-83.34037, 34.01912],
@@ -397,7 +397,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Staring down ',
-            image: '/judia.jpg',
+            image: 'https://github.com/benenchancey/reesestreetmap_draft_1/blob/main/judia.jpg?raw=true',
             description: 'Judia, the youngest of the three sisters, was born in 1870.',
             location: {
                 center: [-83.38300, 33.95737],
