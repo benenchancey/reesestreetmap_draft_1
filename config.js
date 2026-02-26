@@ -430,6 +430,25 @@ var config = {
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
+        },
+        {
+            id: 'thirteenth-chapter',
+            alignment: 'left',
+            hidden: false,
+            title: 'Staring down ',
+            image: 'https://github.com/benenchancey/reesestreetmap_draft_1/blob/main/judia.jpg?raw=true',
+            description: 'Judia, the youngest of the three sisters, was born in 1870.',
+            location: {
+                center: [-83.38300, 33.95737],
+                zoom: 19,
+                pitch: 0,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
         }
     ]
 };
