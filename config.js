@@ -398,8 +398,8 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'J.J. Harris\'s Model Schools',
-            image: 'https://github.com/benenchancey/reesestreetmap_draft_1/blob/main/judia.jpg?raw=true',
-            description: 'Text about model schools here',
+            image: 'https://github.com/benenchancey/reesestreetmap_draft_1/blob/main/modelschool_jj.jpg?raw=true',
+            description: 'Judia ran several model schools throughout rural Clarke County, including one off of Danielsville Road. These model and training schools were the first of their kind in the South, combining cirriculum that included music, literature, and theatre, with training for teachers.',
             location: {
                 center: [-83.34037, 34.01912],
                 zoom: 16.73,
